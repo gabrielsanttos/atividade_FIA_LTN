@@ -6,3 +6,4 @@ Atividade de Fundamentos de Inteligência Artificial sobre Logic Tensor Networks
 | Gabriel Conceição dos Santos     | gabriel.conceicao@icomp.ufam.edu.br      | 
 | Ruthelene Rodrigues Farias | ruthelene.farias@icomp.ufam.edu.br |
 | Nestor antony Farias de Souza  | Nestor.antony.farias.souza@gmail.com |
+| Gabriela Pontes Borges | gabriela.borges@icomp.ufam.edu.br |
