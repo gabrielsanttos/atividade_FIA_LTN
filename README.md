@@ -1,5 +1,7 @@
-# Atividade de Fundamentos de IA sobre LTN
-Atividade de Fundamentos de Inteligência Artificial sobre Logic Tensor Networks (LTNs)
+# Atividade de Fundamentos de Inteligência Artificial sobre Logic Tensor Networks (LTNs)
+
+## Discentes
+
 | Nome | E-mail |
 |-------------|-------------|
 | Beatriz Quaresma Athaide    | beatriz.quaresma@icomp.ufam.edu.br      | 
