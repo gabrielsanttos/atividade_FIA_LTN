@@ -9,3 +9,14 @@ Atividade de Fundamentos de Inteligência Artificial sobre Logic Tensor Networks
 | Gabriela Pontes Borges | gabriela.borges@icomp.ufam.edu.br |
 | Thales Arevalo dos Reis | thales@icomp.ufam.edu.br |
 | Vinicius Gato Santana | vinicius.santana@icomp.ufam.edu.br |
+
+## Licença
+
+Este projeto é de uso acadêmico e foi desenvolvido exclusivamente para fins educacionais no contexto da disciplina.
+
+## Universidade
+
+**Universidade Federal do Amazonas (UFAM)**  
+**Instituto de Computação (IComp)**
+
+*Manaus, AM - 2025*
