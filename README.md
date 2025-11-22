@@ -12,6 +12,7 @@
 | Thales Arevalo dos Reis | thales@icomp.ufam.edu.br |
 | Vinicius Gato Santana | vinicius.santana@icomp.ufam.edu.br |
 | Victor da Silva Dantas | victor.dantas@icomp.ufam.edu.br |
+| Guilherme Teles da Costa Moura | guilherme.moura@icomp.ufam.edu.br |
 
 ## Licença
 
